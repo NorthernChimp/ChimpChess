@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 01c51a435b2a8a449ade37d8148cd84e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thisAnimator: {instanceID: 0}
+  - thisMeshRenderer: {instanceID: 0}
+  - healthIcon: {instanceID: 0}
+  - render: {instanceID: 0}
+  - healthIconPrefab: {fileID: 3826503391878505647, guid: 6511ca50f8b91424fbe04c8733863f97, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
